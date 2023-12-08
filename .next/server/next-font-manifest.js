@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/akshitaryan/Documents/e-commerce/src/app/layout\":[\"static/media/2d141e1a38819612-s.p.woff2\",\"static/media/ef5407c40345a26c-s.p.otf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
